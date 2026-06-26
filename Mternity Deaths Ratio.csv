@@ -1,0 +1,95 @@
+IndicatorCode,Indicator,ValueType,ParentLocationCode,ParentLocation,Location type,SpatialDimValueCode,Location,Period type,Period,IsLatestYear,Dim1 type,Dim1,Dim1ValueCode,Dim2 type,Dim2,Dim2ValueCode,Dim3 type,Dim3,Dim3ValueCode,DataSourceDimValueCode,DataSource,FactValueNumericPrefix,FactValueNumeric,FactValueUoM,FactValueNumericLowPrefix,FactValueNumericLow,FactValueNumericHighPrefix,FactValueNumericHigh,Value,FactValueTranslationID,FactComments,Language,DateModified
+MDG_0000000026,Maternal mortality ratio (per 100 000 live births),text,AFR,Africa,Country,SWZ,Eswatini,Year,2023,true,,,,,,,,,,,,,117.9,,,72.36,,208.8,118 [72 – 209],,,EN,2025-04-10T00:00:00.000Z
+MDG_0000000026,Maternal mortality ratio (per 100 000 live births),text,AFR,Africa,Country,ZAF,South Africa,Year,2023,true,,,,,,,,,,,,,117.6,,,92.47,,136.8,118 [92 – 137],,,EN,2025-04-10T00:00:00.000Z
+MDG_0000000026,Maternal mortality ratio (per 100 000 live births),text,AFR,Africa,Country,NAM,Namibia,Year,2023,true,,,,,,,,,,,,,138.9,,,90.9,,223.1,139 [91 – 223],,,EN,2025-04-10T00:00:00.000Z
+MDG_0000000026,Maternal mortality ratio (per 100 000 live births),text,AFR,Africa,Country,BWA,Botswana,Year,2023,true,,,,,,,,,,,,,155.1,,,95.97,,267.9,155 [96 – 268],,,EN,2025-04-10T00:00:00.000Z
+MDG_0000000026,Maternal mortality ratio (per 100 000 live births),text,AFR,Africa,Country,UGA,Uganda,Year,2023,true,,,,,,,,,,,,,170.3,,,116.3,,297.7,170 [116 – 298],,,EN,2025-04-10T00:00:00.000Z
+MDG_0000000026,Maternal mortality ratio (per 100 000 live births),text,AFR,Africa,Country,GNQ,Equatorial Guinea,Year,2023,true,,,,,,,,,,,,,173.7,,,103.4,,308.6,174 [103 – 309],,,EN,2025-04-10T00:00:00.000Z
+MDG_0000000026,Maternal mortality ratio (per 100 000 live births),text,AFR,Africa,Country,COM,Comoros,Year,2023,true,,,,,,,,,,,,,178.9,,,103,,308.4,179 [103 – 308],,,EN,2025-04-10T00:00:00.000Z
+MDG_0000000026,Maternal mortality ratio (per 100 000 live births),text,AFR,Africa,Country,AGO,Angola,Year,2023,true,,,,,,,,,,,,,183.2,,,116.7,,286.4,183 [117 – 286],,,EN,2025-04-10T00:00:00.000Z
+MDG_0000000026,Maternal mortality ratio (per 100 000 live births),text,AFR,Africa,Country,ETH,Ethiopia,Year,2023,true,,,,,,,,,,,,,194.9,,,128.4,,332,195 [128 – 332],,,EN,2025-04-10T00:00:00.000Z
+MDG_0000000026,Maternal mortality ratio (per 100 000 live births),text,AFR,Africa,Country,MWI,Malawi,Year,2023,true,,,,,,,,,,,,,225,,,153,,351.9,225 [153 – 352],,,EN,2025-04-10T00:00:00.000Z
+MDG_0000000026,Maternal mortality ratio (per 100 000 live births),text,AFR,Africa,Country,RWA,Rwanda,Year,2023,true,,,,,,,,,,,,,229.5,,,157.5,,373.2,229 [158 – 373],,,EN,2025-04-10T00:00:00.000Z
+MDG_0000000026,Maternal mortality ratio (per 100 000 live births),text,AFR,Africa,Country,GAB,Gabon,Year,2023,true,,,,,,,,,,,,,232.7,,,133.8,,423.7,233 [134 – 424],,,EN,2025-04-10T00:00:00.000Z
+MDG_0000000026,Maternal mortality ratio (per 100 000 live births),text,AFR,Africa,Country,GHA,Ghana,Year,2023,true,,,,,,,,,,,,,234.3,,,155.4,,343.9,234 [155 – 344],,,EN,2025-04-10T00:00:00.000Z
+MDG_0000000026,Maternal mortality ratio (per 100 000 live births),text,AFR,Africa,Country,SEN,Senegal,Year,2023,true,,,,,,,,,,,,,237.4,,,172.5,,365.2,237 [173 – 365],,,EN,2025-04-10T00:00:00.000Z
+MDG_0000000026,Maternal mortality ratio (per 100 000 live births),text,AFR,Africa,Country,COG,Congo,Year,2023,true,,,,,,,,,,,,,241.1,,,143.8,,452.5,241 [144 – 453],,,EN,2025-04-10T00:00:00.000Z
+MDG_0000000026,Maternal mortality ratio (per 100 000 live births),text,AFR,Africa,Country,BFA,Burkina Faso,Year,2023,true,,,,,,,,,,,,,241.8,,,155.2,,366.9,242 [155 – 367],,,EN,2025-04-10T00:00:00.000Z
+MDG_0000000026,Maternal mortality ratio (per 100 000 live births),text,AFR,Africa,Country,CMR,Cameroon,Year,2023,true,,,,,,,,,,,,,258.2,,,195.6,,359.5,258 [196 – 359],,,EN,2025-04-10T00:00:00.000Z
+MDG_0000000026,Maternal mortality ratio (per 100 000 live births),text,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2023,true,,,,,,,,,,,,,275.8,,,192.1,,429,276 [192 – 429],,,EN,2025-04-10T00:00:00.000Z
+MDG_0000000026,Maternal mortality ratio (per 100 000 live births),text,AFR,Africa,Country,ERI,Eritrea,Year,2023,true,,,,,,,,,,,,,291.4,,,175.5,,482.7,291 [176 – 483],,,EN,2025-04-10T00:00:00.000Z
+MDG_0000000026,Maternal mortality ratio (per 100 000 live births),text,AFR,Africa,Country,TGO,Togo,Year,2023,true,,,,,,,,,,,,,348.9,,,219.2,,526.5,349 [219 – 526],,,EN,2025-04-10T00:00:00.000Z
+MDG_0000000026,Maternal mortality ratio (per 100 000 live births),text,AFR,Africa,Country,NER,Niger,Year,2023,true,,,,,,,,,,,,,350.3,,,227.4,,563,350 [227 – 563],,,EN,2025-04-10T00:00:00.000Z
+MDG_0000000026,Maternal mortality ratio (per 100 000 live births),text,AFR,Africa,Country,GMB,Gambia,Year,2023,true,,,,,,,,,,,,,354.4,,,244.9,,504.4,354 [245 – 504],,,EN,2025-04-10T00:00:00.000Z
+MDG_0000000026,Maternal mortality ratio (per 100 000 live births),text,AFR,Africa,Country,SLE,Sierra Leone,Year,2023,true,,,,,,,,,,,,,353.6,,,249.2,,537,354 [249 – 537],,,EN,2025-04-10T00:00:00.000Z
+MDG_0000000026,Maternal mortality ratio (per 100 000 live births),text,AFR,Africa,Country,ZWE,Zimbabwe,Year,2023,true,,,,,,,,,,,,,357.6,,,235.5,,484.2,358 [236 – 484],,,EN,2025-04-10T00:00:00.000Z
+MDG_0000000026,Maternal mortality ratio (per 100 000 live births),text,AFR,Africa,Country,CIV,Cote d'Ivoire,Year,2023,true,,,,,,,,,,,,,359,,,237,,568.2,359 [237 – 568],,,EN,2025-04-10T00:00:00.000Z
+MDG_0000000026,Maternal mortality ratio (per 100 000 live births),text,AFR,Africa,Country,MLI,Mali,Year,2023,true,,,,,,,,,,,,,367.3,,,267.5,,498,367 [268 – 498],,,EN,2025-04-10T00:00:00.000Z
+MDG_0000000026,Maternal mortality ratio (per 100 000 live births),text,AFR,Africa,Country,KEN,Kenya,Year,2023,true,,,,,,,,,,,,,378.8,,,267,,546.8,379 [267 – 547],,,EN,2025-04-10T00:00:00.000Z
+MDG_0000000026,Maternal mortality ratio (per 100 000 live births),text,AFR,Africa,Country,MRT,Mauritania,Year,2023,true,,,,,,,,,,,,,381.1,,,262.6,,560.9,381 [263 – 561],,,EN,2025-04-10T00:00:00.000Z
+MDG_0000000026,Maternal mortality ratio (per 100 000 live births),text,AFR,Africa,Country,BDI,Burundi,Year,2023,true,,,,,,,,,,,,,392,,,251.4,,611.1,392 [251 – 611],,,EN,2025-04-10T00:00:00.000Z
+MDG_0000000026,Maternal mortality ratio (per 100 000 live births),text,AFR,Africa,Country,CPV,Cabo Verde,Year,2023,true,,,,,,,,,,,,,40.04,,,22.32,,65.49,40 [22 – 65],,,EN,2025-04-10T00:00:00.000Z
+MDG_0000000026,Maternal mortality ratio (per 100 000 live births),text,AFR,Africa,Country,SYC,Seychelles,Year,2023,true,,,,,,,,,,,,,41.89,,,25.95,,64.36,42 [26 – 64],,,EN,2025-04-10T00:00:00.000Z
+MDG_0000000026,Maternal mortality ratio (per 100 000 live births),text,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2023,true,,,,,,,,,,,,,427,,,283.3,,775,427 [283 – 775],,,EN,2025-04-10T00:00:00.000Z
+MDG_0000000026,Maternal mortality ratio (per 100 000 live births),text,AFR,Africa,Country,MDG,Madagascar,Year,2023,true,,,,,,,,,,,,,445.4,,,325.6,,651.9,445 [326 – 652],,,EN,2025-04-10T00:00:00.000Z
+MDG_0000000026,Maternal mortality ratio (per 100 000 live births),text,AFR,Africa,Country,LSO,Lesotho,Year,2023,true,,,,,,,,,,,,,478,,,297.8,,724.7,478 [298 – 725],,,EN,2025-04-10T00:00:00.000Z
+MDG_0000000026,Maternal mortality ratio (per 100 000 live births),text,AFR,Africa,Country,GIN,Guinea,Year,2023,true,,,,,,,,,,,,,494.1,,,336.5,,764.5,494 [337 – 764],,,EN,2025-04-10T00:00:00.000Z
+MDG_0000000026,Maternal mortality ratio (per 100 000 live births),text,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2023,true,,,,,,,,,,,,,505.4,,,313.1,,851,505 [313 – 851],,,EN,2025-04-10T00:00:00.000Z
+MDG_0000000026,Maternal mortality ratio (per 100 000 live births),text,AFR,Africa,Country,BEN,Benin,Year,2023,true,,,,,,,,,,,,,518.2,,,392.9,,739.7,518 [393 – 740],,,EN,2025-04-10T00:00:00.000Z
+MDG_0000000026,Maternal mortality ratio (per 100 000 live births),text,AFR,Africa,Country,DZA,Algeria,Year,2023,true,,,,,,,,,,,,,62.49,,,45.53,,86.52,62 [46 – 87],,,EN,2025-04-10T00:00:00.000Z
+MDG_0000000026,Maternal mortality ratio (per 100 000 live births),text,AFR,Africa,Country,LBR,Liberia,Year,2023,true,,,,,,,,,,,,,627.7,,,436.1,,913.3,628 [436 – 913],,,EN,2025-04-10T00:00:00.000Z
+MDG_0000000026,Maternal mortality ratio (per 100 000 live births),text,AFR,Africa,Country,MUS,Mauritius,Year,2023,true,,,,,,,,,,,,,65.9,,,43.54,,105.1,66 [44 – 105],,,EN,2025-04-10T00:00:00.000Z
+MDG_0000000026,Maternal mortality ratio (per 100 000 live births),text,AFR,Africa,Country,CAF,Central African Republic,Year,2023,true,,,,,,,,,,,,,691.7,,,333.2,,1299,692 [333 – 1299],,,EN,2025-04-10T00:00:00.000Z
+MDG_0000000026,Maternal mortality ratio (per 100 000 live births),text,AFR,Africa,Country,SSD,South Sudan,Year,2023,true,,,,,,,,,,,,,691.8,,,399.6,,1254,692 [400 – 1254],,,EN,2025-04-10T00:00:00.000Z
+MDG_0000000026,Maternal mortality ratio (per 100 000 live births),text,AFR,Africa,Country,TCD,Chad,Year,2023,true,,,,,,,,,,,,,747.5,,,493.3,,1248,748 [493 – 1248],,,EN,2025-04-10T00:00:00.000Z
+MDG_0000000026,Maternal mortality ratio (per 100 000 live births),text,AFR,Africa,Country,STP,Sao Tome and Principe,Year,2023,true,,,,,,,,,,,,,75.36,,,41.75,,137.8,75 [42 – 138],,,EN,2025-04-10T00:00:00.000Z
+MDG_0000000026,Maternal mortality ratio (per 100 000 live births),text,AFR,Africa,Country,MOZ,Mozambique,Year,2023,true,,,,,,,,,,,,,82.22,,,60.05,,112.9,82 [60 – 113],,,EN,2025-04-10T00:00:00.000Z
+MDG_0000000026,Maternal mortality ratio (per 100 000 live births),text,AFR,Africa,Country,ZMB,Zambia,Year,2023,true,,,,,,,,,,,,,85.45,,,60.78,,125.5,85 [61 – 126],,,EN,2025-04-10T00:00:00.000Z
+MDG_0000000026,Maternal mortality ratio (per 100 000 live births),text,AFR,Africa,Country,NGA,Nigeria,Year,2023,true,,,,,,,,,,,,,992.8,,,718.3,,1540,993 [718 – 1540],,,EN,2025-04-10T00:00:00.000Z
+MORT_MATERNALNUM,Number of maternal deaths,numeric,AFR,Africa,Country,SYC,Seychelles,Year,2023,true,,,,,,,,,,,,,0.73,,,0.45,,1.12,1 [0-1],,,EN,2025-04-07T00:00:00.000Z
+MORT_MATERNALNUM,Number of maternal deaths,numeric,AFR,Africa,Country,TGO,Togo,Year,2023,true,,,,,,,,,,,,,1011,,,635.1,,1526,1011 [635-1526],,,EN,2025-04-07T00:00:00.000Z
+MORT_MATERNALNUM,Number of maternal deaths,numeric,AFR,Africa,Country,MOZ,Mozambique,Year,2023,true,,,,,,,,,,,,,1037,,,757.1,,1423,1037 [757-1423],,,EN,2025-04-10T00:00:00.000Z
+MORT_MATERNALNUM,Number of maternal deaths,numeric,AFR,Africa,Country,LBR,Liberia,Year,2023,true,,,,,,,,,,,,,1068,,,741.7,,1553,1068 [742-1553],,,EN,2025-04-07T00:00:00.000Z
+MORT_MATERNALNUM,Number of maternal deaths,numeric,AFR,Africa,Country,NAM,Namibia,Year,2023,true,,,,,,,,,,,,,106.5,,,69.73,,171.2,107 [70-171],,,EN,2025-04-07T00:00:00.000Z
+MORT_MATERNALNUM,Number of maternal deaths,numeric,AFR,Africa,Country,SEN,Senegal,Year,2023,true,,,,,,,,,,,,,1263,,,917.8,,1942,1263 [918-1942],,,EN,2025-04-07T00:00:00.000Z
+MORT_MATERNALNUM,Number of maternal deaths,numeric,AFR,Africa,Country,ZAF,South Africa,Year,2023,true,,,,,,,,,,,,,1395,,,1097,,1624,1395 [1097-1624],,,EN,2025-04-07T00:00:00.000Z
+MORT_MATERNALNUM,Number of maternal deaths,numeric,AFR,Africa,Country,MWI,Malawi,Year,2023,true,,,,,,,,,,,,,1490,,,1014,,2331,1490 [1014-2331],,,EN,2025-04-07T00:00:00.000Z
+MORT_MATERNALNUM,Number of maternal deaths,numeric,AFR,Africa,Country,GAB,Gabon,Year,2023,true,,,,,,,,,,,,,159.9,,,92,,291.3,160 [92-291],,,EN,2025-04-07T00:00:00.000Z
+MORT_MATERNALNUM,Number of maternal deaths,numeric,AFR,Africa,Country,CAF,Central African Republic,Year,2023,true,,,,,,,,,,,,,1652,,,795.8,,3102,1652 [796-3102],,,EN,2025-04-07T00:00:00.000Z
+MORT_MATERNALNUM,Number of maternal deaths,numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2023,true,,,,,,,,,,,,,1762,,,1131,,2673,1762 [1131-2673],,,EN,2025-04-07T00:00:00.000Z
+MORT_MATERNALNUM,Number of maternal deaths,numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2023,true,,,,,,,,,,,,,1777,,,1170,,2406,1777 [1170-2406],,,EN,2025-04-07T00:00:00.000Z
+MORT_MATERNALNUM,Number of maternal deaths,numeric,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2023,true,,,,,,,,,,,,,18661,,,12379,,33864,18 661 [12 379-33 864],,,EN,2025-04-10T00:00:00.000Z
+MORT_MATERNALNUM,Number of maternal deaths,numeric,AFR,Africa,Country,BDI,Burundi,Year,2023,true,,,,,,,,,,,,,1807,,,1159,,2817,1807 [1159-2817],,,EN,2025-04-07T00:00:00.000Z
+MORT_MATERNALNUM,Number of maternal deaths,numeric,AFR,Africa,Country,GHA,Ghana,Year,2023,true,,,,,,,,,,,,,2083,,,1381,,3057,2083 [1381-3057],,,EN,2025-04-07T00:00:00.000Z
+MORT_MATERNALNUM,Number of maternal deaths,numeric,AFR,Africa,Country,SSD,South Sudan,Year,2023,true,,,,,,,,,,,,,2271,,,1312,,4116,2271 [1312-4116],,,EN,2025-04-07T00:00:00.000Z
+MORT_MATERNALNUM,Number of maternal deaths,numeric,AFR,Africa,Country,GIN,Guinea,Year,2023,true,,,,,,,,,,,,,2409,,,1641,,3728,2409 [1641-3728],,,EN,2025-04-07T00:00:00.000Z
+MORT_MATERNALNUM,Number of maternal deaths,numeric,AFR,Africa,Country,CMR,Cameroon,Year,2023,true,,,,,,,,,,,,,2472,,,1873,,3441,2472 [1873-3441],,,EN,2025-04-07T00:00:00.000Z
+MORT_MATERNALNUM,Number of maternal deaths,numeric,AFR,Africa,Country,BEN,Benin,Year,2023,true,,,,,,,,,,,,,2477,,,1878,,3536,2477 [1878-3536],,,EN,2025-04-07T00:00:00.000Z
+MORT_MATERNALNUM,Number of maternal deaths,numeric,AFR,Africa,Country,AGO,Angola,Year,2023,true,,,,,,,,,,,,,2531,,,1612,,3956,2531 [1612-3956],,,EN,2025-04-07T00:00:00.000Z
+MORT_MATERNALNUM,Number of maternal deaths,numeric,AFR,Africa,Country,LSO,Lesotho,Year,2023,true,,,,,,,,,,,,,266.4,,,166,,403.9,266 [166-404],,,EN,2025-04-07T00:00:00.000Z
+MORT_MATERNALNUM,Number of maternal deaths,numeric,AFR,Africa,Country,ERI,Eritrea,Year,2023,true,,,,,,,,,,,,,288.6,,,173.9,,478.1,289 [174-478],,,EN,2025-04-07T00:00:00.000Z
+MORT_MATERNALNUM,Number of maternal deaths,numeric,AFR,Africa,Country,GMB,Gambia,Year,2023,true,,,,,,,,,,,,,290.9,,,201,,414.1,291 [201-414],,,EN,2025-04-07T00:00:00.000Z
+MORT_MATERNALNUM,Number of maternal deaths,numeric,AFR,Africa,Country,UGA,Uganda,Year,2023,true,,,,,,,,,,,,,2917,,,1992,,5099,2917 [1992-5099],,,EN,2025-04-07T00:00:00.000Z
+MORT_MATERNALNUM,Number of maternal deaths,numeric,AFR,Africa,Country,CPV,Cabo Verde,Year,2023,true,,,,,,,,,,,,,2.58,,,1.44,,4.22,3 [1-4],,,EN,2025-04-07T00:00:00.000Z
+MORT_MATERNALNUM,Number of maternal deaths,numeric,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2023,true,,,,,,,,,,,,,326.9,,,202.5,,550.4,327 [203-550],,,EN,2025-04-07T00:00:00.000Z
+MORT_MATERNALNUM,Number of maternal deaths,numeric,AFR,Africa,Country,MLI,Mali,Year,2023,true,,,,,,,,,,,,,3495,,,2545,,4738,3495 [2545-4738],,,EN,2025-04-07T00:00:00.000Z
+MORT_MATERNALNUM,Number of maternal deaths,numeric,AFR,Africa,Country,SWZ,Eswatini,Year,2023,true,,,,,,,,,,,,,34.93,,,21.44,,61.84,35 [21-62],,,EN,2025-04-07T00:00:00.000Z
+MORT_MATERNALNUM,Number of maternal deaths,numeric,AFR,Africa,Country,CIV,Cote d'Ivoire,Year,2023,true,,,,,,,,,,,,,3579,,,2363,,5665,3579 [2363-5665],,,EN,2025-04-07T00:00:00.000Z
+MORT_MATERNALNUM,Number of maternal deaths,numeric,AFR,Africa,Country,NER,Niger,Year,2023,true,,,,,,,,,,,,,3839,,,2493,,6169,3839 [2493-6169],,,EN,2025-04-07T00:00:00.000Z
+MORT_MATERNALNUM,Number of maternal deaths,numeric,AFR,Africa,Country,COM,Comoros,Year,2023,true,,,,,,,,,,,,,43.59,,,25.09,,75.15,44 [25-75],,,EN,2025-04-07T00:00:00.000Z
+MORT_MATERNALNUM,Number of maternal deaths,numeric,AFR,Africa,Country,MDG,Madagascar,Year,2023,true,,,,,,,,,,,,,4460,,,3260,,6528,4460 [3260-6528],,,EN,2025-04-07T00:00:00.000Z
+MORT_MATERNALNUM,Number of maternal deaths,numeric,AFR,Africa,Country,COG,Congo,Year,2023,true,,,,,,,,,,,,,456.5,,,272.3,,856.9,457 [272-857],,,EN,2025-04-07T00:00:00.000Z
+MORT_MATERNALNUM,Number of maternal deaths,numeric,AFR,Africa,Country,STP,Sao Tome and Principe,Year,2023,true,,,,,,,,,,,,,4.9,,,2.72,,8.96,5 [3-9],,,EN,2025-04-07T00:00:00.000Z
+MORT_MATERNALNUM,Number of maternal deaths,numeric,AFR,Africa,Country,DZA,Algeria,Year,2023,true,,,,,,,,,,,,,566.1,,,412.5,,783.9,566 [413-784],,,EN,2025-04-07T00:00:00.000Z
+MORT_MATERNALNUM,Number of maternal deaths,numeric,AFR,Africa,Country,KEN,Kenya,Year,2023,true,,,,,,,,,,,,,5682,,,4006,,8202,5682 [4006-8202],,,EN,2025-04-10T00:00:00.000Z
+MORT_MATERNALNUM,Number of maternal deaths,numeric,AFR,Africa,Country,ZMB,Zambia,Year,2023,true,,,,,,,,,,,,,585.8,,,416.7,,860.7,586 [417-861],,,EN,2025-04-07T00:00:00.000Z
+MORT_MATERNALNUM,Number of maternal deaths,numeric,AFR,Africa,Country,TCD,Chad,Year,2023,true,,,,,,,,,,,,,6123,,,4041,,10222,6123 [4041-10 222],,,EN,2025-04-07T00:00:00.000Z
+MORT_MATERNALNUM,Number of maternal deaths,numeric,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2023,true,,,,,,,,,,,,,6472,,,4507,,10067,6472 [4507-10 067],,,EN,2025-04-07T00:00:00.000Z
+MORT_MATERNALNUM,Number of maternal deaths,numeric,AFR,Africa,Country,MRT,Mauritania,Year,2023,true,,,,,,,,,,,,,658.8,,,454,,969.8,659 [454-970],,,EN,2025-04-07T00:00:00.000Z
+MORT_MATERNALNUM,Number of maternal deaths,numeric,AFR,Africa,Country,NGA,Nigeria,Year,2023,true,,,,,,,,,,,,,74559,,,53945,,115636,74 559 [53 945-115 636],,,EN,2025-04-10T00:00:00.000Z
+MORT_MATERNALNUM,Number of maternal deaths,numeric,AFR,Africa,Country,MUS,Mauritius,Year,2023,true,,,,,,,,,,,,,7.78,,,5.14,,12.41,8 [5-12],,,EN,2025-04-07T00:00:00.000Z
+MORT_MATERNALNUM,Number of maternal deaths,numeric,AFR,Africa,Country,ETH,Ethiopia,Year,2023,true,,,,,,,,,,,,,8003,,,5272,,13632,8003 [5272-13 632],,,EN,2025-04-07T00:00:00.000Z
+MORT_MATERNALNUM,Number of maternal deaths,numeric,AFR,Africa,Country,RWA,Rwanda,Year,2023,true,,,,,,,,,,,,,907.8,,,623.1,,1476,908 [623-1476],,,EN,2025-04-07T00:00:00.000Z
+MORT_MATERNALNUM,Number of maternal deaths,numeric,AFR,Africa,Country,SLE,Sierra Leone,Year,2023,true,,,,,,,,,,,,,915.4,,,645.2,,1390,915 [645-1390],,,EN,2025-04-07T00:00:00.000Z
+MORT_MATERNALNUM,Number of maternal deaths,numeric,AFR,Africa,Country,GNQ,Equatorial Guinea,Year,2023,true,,,,,,,,,,,,,94.98,,,56.54,,168.8,95 [57-169],,,EN,2025-04-07T00:00:00.000Z
+MORT_MATERNALNUM,Number of maternal deaths,numeric,AFR,Africa,Country,BWA,Botswana,Year,2023,true,,,,,,,,,,,,,95.07,,,58.82,,164.2,95 [59-164],,,EN,2025-04-07T00:00:00.000Z
