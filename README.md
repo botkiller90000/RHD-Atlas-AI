@@ -61,7 +61,3 @@ Codespaces will prompt you to open the forwarded port in your browser.
 | `plotly` | Interactive charts |
 
 All dependencies are listed in `requirements.txt`. No external APIs or databases are required — all data is synthetically generated.
-
-## Data
-
-All epidemiological data (GBD, WHO, World Bank) is **synthetically generated** using reproducible random seeds in `utils/data.py`. This simulates realistic regional patterns for demonstration purposes without depending on external data downloads.
