@@ -1,7 +1,7 @@
 # RHD-Atlas-AI
  An AI-powered public health platform for early screening, risk assessment, and epidemiological visualization of Rheumatic Heart Disease across Africa.
 
- This BRanch include the Word file, with the Full Project Documentation and Problem Statement...
+ This Branch include the Word file, with the Full Project Documentation and Problem Statement...
  
 ## How to navigate?
  Each PArt of the Project is presented in each of the github repository's branches as follows:
